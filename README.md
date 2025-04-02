@@ -1,4 +1,3 @@
-# Traitement d'images satellites avec Python
+# Introduction aux bases de données géosptiales
 
-* Édition 1 (mars 2025)
-* Édition prévue en août 2025
+* Édition 1 (prévue pour août 2025)
