@@ -66,14 +66,16 @@ book:
   - 00-auteurs.qmd
   - part: Partie 1. Introduction à la programmation avec python
   - 00-PriseEnMainPython.qmd
-#  - 01-ImportationManipulationImages.qmd
-#  - 02-RehaussementVisualisationImages.qmd
+  - 01-IntroductionProgrammation.qmd
+  - 02-ProgrammationAvancee.qmd
   - part: Partie 2. Les bases de données relationnelles
-#  - 03-TransformationSpectrales.qmd
-#  - 04-TransformationSpatiales.qmd
-  - part: Partie 3. Manipulations des bases de données avec python
-#  - 05-ClassificationsSupervisees.qmd
-#  - 06-ClassificationsNonSupervisees.qmd
+  - 03-BasesdeDonneesRelationnelles.qmd
+  - 04-ConstructionsBDR.qmd
+  - 05-IntroductionSQL.qmd
+  - part: Partie 3. Les bases de données géospatiales
+  - 06-BDGeospatiales.qmd
+  - 07-RequetesSpatiales.qmd
+  - 08-SujetsAvances.qmd
 #  - part: Partie 4. Données massives
 #  - 07-PlateformesMegadonnees.qmd
 #  - part: Partie 5. Exercices et bibliographie
